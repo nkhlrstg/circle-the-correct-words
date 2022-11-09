@@ -1,0 +1,31 @@
+[
+    {
+        "heading_text": "Circle the correct words in brackets.",
+        "heading_bgColor":"#9b1714",
+        "heading_txtColor":"#fff",
+        "finish_image": "./img/bye.jpg"
+    },
+    {
+        "left_question": "Mina takes her ",
+        "right_question": " to the park.",
+        "options": ["cycle", "doll"],
+        "correct_option": "cycle",
+        "question_image": "./img/img1.webp"
+    },
+    {
+        "left_question": "Aman plays with his ",
+        "right_question": ".",
+        "options": ["kite", "ball"],
+        "correct_option": "ball",
+        "question_image": ""
+
+    },
+    {
+        "left_question": "Aadadman plays with his ",
+        "right_question": ".",
+        "options": ["kidte", "bll"],
+        "correct_option": "kidte",
+        "question_image": "./img/img3.webp"
+    }
+]
+
